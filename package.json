@@ -1,0 +1,11 @@
+{
+  "name": "ngx-fire-cookie",
+  "version": "0.0.1",
+  "dependencies": {
+    "@nguniversal/express-engine": "^7.0.2"
+  },
+  "peerDependencies": {
+    "@angular/common": ">=7.0.0",
+    "@angular/core": ">=7.0.0"
+  }
+}
